@@ -15,7 +15,8 @@ def sock_merchant0(n, ar):
     # . THINK: You're given n for a reason -- use it?
     #      - Hmm, including n may have actually been an
     #        error while translating this problem from
-    #        other programming languages...
+    #        other programming languages...In the future,
+    #        remove this kind of parameter in your code!
 
     # NOTE: There's a class in collections called Counter
     #       that can construct the result of the following
